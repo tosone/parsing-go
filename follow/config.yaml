@@ -1,0 +1,3 @@
+baseURL: "https://ra.smartconn.cc"
+api:
+  followScriptBaseList: "%s/api/devices/%s/book-followreadding-base-list"
